@@ -64,7 +64,7 @@ the server.
 - **The content of your messages, with two narrow exceptions.** LFG posts are read
   only momentarily to extract the details above (boss, rank, time, the members
   tagged); the text itself is not kept. The exceptions: staff can mark a particular
-  message for tracking, which stores that message's text so a display can be kept
+  progathon LFG message for tracking, which stores that message's text so a display can be kept
   in sync, and a link you post in a log channel can appear in the bot's operational
   log when a staff member runs a log check with debug output turned on.
 - **Direct message content.** The bot only *sends* DMs (for example, notifying a run
@@ -106,8 +106,7 @@ data is sent to external services beyond what this policy describes.
 Data is stored in files on an access-restricted server controlled by the Void
 Lounge staff and is not publicly accessible. We use commercially reasonable
 administrative and technical measures to protect it, including restricting access
-to that server. No method of storage is perfectly secure, but we take reasonable
-steps to safeguard your information.
+to that server. 
 
 If we become aware of unauthorised access to personal data the bot holds, we will
 investigate, take reasonable steps to contain and remedy it, and give whatever
